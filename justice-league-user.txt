@@ -1,0 +1,10 @@
+bruce:/home/brucewayne:admins:Bruce Wayne - Batman
+clark:/home/clarkkent:admins:Clark Kent - Superman
+diana:/home/dianaprince:admins:Diana Prince - Wonder Woman
+hal:/home/haljordan:greenlanterns:Hal Jordan - Green Lantern (The Original)
+barry:/home/barryallen:admins:Barry Allen - Flash
+oliver:/home/oliverqueen:admins:Oliver Queen - Green Arrow
+jonn:/home/jonnjonzz::J'onn J'onzz - Martian Manhunter
+arthur:/home/arthurcurry::Arthur Curry - Aquaman
+dick:/home/dickgreyson:admins:Dick Greyson - Nighwing
+damien:/home/damienwayne::Damien Wayne - Robin
